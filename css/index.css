@@ -1,0 +1,49 @@
+.width-wrapper {
+    max-width: 1200px;
+    height: 800px;
+    margin: 0 auto;
+    position: relative;
+    padding: 0 20px;
+
+    /* border: 1px solid black; */
+    
+}
+.view-grid {
+    max-width: 1000px;
+    height: 800px;
+    padding-bottom: 80px;
+    position: relative;
+    margin: 0 auto;
+     /* border: 1px black solid  */
+    
+}
+.single{
+    height: 310px;
+    width: 42%;
+    border: 5px solid grey;
+    border-radius: 2px;
+    overflow: hidden;
+    margin: 25px 40px 0 35px;
+    position: relative;
+    float: left;
+    box-shadow: 2px 2px 3px rgba(0,0,0,0.28);
+    
+    
+}
+ /* single-left { 
+    float: left;
+} 
+ single-right {
+    float: right;
+} */
+
+.single img {
+    height: 300px;
+    width: 454px;
+}
+
+.title-header h2 {
+    color: yellowgreen;
+    font-size: 40px;
+    font-style: oblique;
+}
